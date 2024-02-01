@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Rooms","order":9,"path":"folders/Rooms.yy",},
+    {"name":"Scene","order":10,"path":"folders/Scene.yy",},
+    {"name":"Entities","order":11,"path":"folders/Entities.yy",},
+    {"name":"Libraries","order":12,"path":"folders/Libraries.yy",},
+    {"name":"Player","order":2,"path":"folders/Entities/Player.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_room_transfer","order":1,"path":"sprites/spr_room_transfer/spr_room_transfer.yy",},
+    {"name":"rm_B","order":1,"path":"rooms/rm_B/rm_B.yy",},
+    {"name":"rm_C","order":2,"path":"rooms/rm_C/rm_C.yy",},
+  ],
+}
